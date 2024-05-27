@@ -250,3 +250,4 @@ D:\CRISTHIAN\UPN\Ciclo VII\DISEÑO Y ARQUITECTURA DE SOFTWARE\T2_Pregunta1\T2_Ra
 D:\CRISTHIAN\UPN\Ciclo VII\DISEÑO Y ARQUITECTURA DE SOFTWARE\T2_Pregunta1\T2_Ramos_Cristhian\T2_Ramos_Cristhian\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\CRISTHIAN\UPN\Ciclo VII\DISEÑO Y ARQUITECTURA DE SOFTWARE\T2_Pregunta1\T2_Ramos_Cristhian\T2_Ramos_Cristhian\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\CRISTHIAN\UPN\Ciclo VII\DISEÑO Y ARQUITECTURA DE SOFTWARE\T2_Pregunta1\T2_Ramos_Cristhian\T2_Ramos_Cristhian\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\CRISTHIAN\UPN\Ciclo VII\DISEÑO Y ARQUITECTURA DE SOFTWARE\T2_Pregunta1\T2_Ramos_Cristhian\T2_Ramos_Cristhian\obj\Debug\net8.0\T2_Ramos_Cristhian.sourcelink.json

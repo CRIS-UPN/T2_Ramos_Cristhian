@@ -1,0 +1,289 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\T2_Ramos_Cristhian.bundle.scp.css",
+      "PackagePath": "staticwebassets\\T2_Ramos_Cristhian.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\images\\backus.jpg",
+      "PackagePath": "staticwebassets\\images\\backus.jpg"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\images\\costco.jpg",
+      "PackagePath": "staticwebassets\\images\\costco.jpg"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\images\\kroger.jpg",
+      "PackagePath": "staticwebassets\\images\\kroger.jpg"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\images\\palmosa.jpg",
+      "PackagePath": "staticwebassets\\images\\palmosa.jpg"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\images\\saga.jpg",
+      "PackagePath": "staticwebassets\\images\\saga.jpg"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\images\\walmart.jpg",
+      "PackagePath": "staticwebassets\\images\\walmart.jpg"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CRISTHIAN\\UPN\\Ciclo VII\\DISEÑO Y ARQUITECTURA DE SOFTWARE\\T2_Pregunta1\\T2_Ramos_Cristhian\\T2_Ramos_Cristhian\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.T2_Ramos_Cristhian.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.T2_Ramos_Cristhian.props",
+      "PackagePath": "build\\T2_Ramos_Cristhian.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.T2_Ramos_Cristhian.props",
+      "PackagePath": "buildMultiTargeting\\T2_Ramos_Cristhian.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.T2_Ramos_Cristhian.props",
+      "PackagePath": "buildTransitive\\T2_Ramos_Cristhian.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

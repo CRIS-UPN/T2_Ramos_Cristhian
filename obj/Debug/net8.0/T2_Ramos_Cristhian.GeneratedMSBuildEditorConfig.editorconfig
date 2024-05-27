@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = T2_Ramos_Cristhian
+build_property.RootNamespace = T2_Ramos_Cristhian
+build_property.ProjectDir = D:\CRISTHIAN\UPN\Ciclo VII\DISEÑO Y ARQUITECTURA DE SOFTWARE\T2_Pregunta1\T2_Ramos_Cristhian\T2_Ramos_Cristhian\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\CRISTHIAN\UPN\Ciclo VII\DISEÑO Y ARQUITECTURA DE SOFTWARE\T2_Pregunta1\T2_Ramos_Cristhian\T2_Ramos_Cristhian
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/Distribuidor/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/Distribuidor/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/Distribuidor/Eliminar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yXEVsaW1pbmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/Distribuidor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzdHJpYnVpZG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/Home/DistribuidoresMundo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXN0cmlidWlkb3Jlc011bmRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/Home/DistribuidoresPeru.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXN0cmlidWlkb3Jlc1BlcnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CRISTHIAN/UPN/Ciclo VII/DISEÑO Y ARQUITECTURA DE SOFTWARE/T2_Pregunta1/T2_Ramos_Cristhian/T2_Ramos_Cristhian/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jgdh80pv8r
